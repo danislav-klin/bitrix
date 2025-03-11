@@ -1,7 +1,4 @@
-<?
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Мебельная компания");
-?>
+
 
 <div class="slide-one-item home-slider owl-carousel">
 
@@ -395,4 +392,3 @@ $APPLICATION->SetTitle("Мебельная компания");
 </div>
 </div>
 
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

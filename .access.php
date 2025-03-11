@@ -1,4 +1,6 @@
 <?
+$PERM["obyavleniya"]["G8"]="W";
+$PERM["bitrix"]["8"]="D";
 $PERM["kabinet-pokupatelya"]["*"]="D";
 $PERM["kabinet-pokupatelya"]["6"]="X";
 $PERM["kabinet-prodavtsa"]["*"]="D";
